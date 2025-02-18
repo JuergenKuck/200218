@@ -1,7 +1,15 @@
 void main() {
-  int x = 5;
-  x = x + 1;
-  x = 10;
-  String n = "Hello";
-  print("$x World");
+  String gdStr = "Guten";
+  String dayStr = "Tag";
+  String worldStr = "World";
+  int d = 20;
+  String timeStr = "Zeit";
+  int seven = 7;
+  int twelve = 12;
+  String d = "!";
+  int a = 24;
+  String c = "Schöne";
+  String morning = "Morgen";
+  String s = "Heute";
+  String spa = " ";
 }
